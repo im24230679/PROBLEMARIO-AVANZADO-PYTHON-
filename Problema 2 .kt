@@ -1,4 +1,4 @@
-# 2.- Fibonacci generalizado: Crea una función que reciba dos números iniciales y calcule una serie similar a Fibonacci, pero con estos números como punto de partida.
+#2.- Fibonacci generalizado: Crea una función que reciba dos números iniciales y calcule una serie similar a Fibonacci, pero con estos números como punto de partida.
 
 def fibonacci_generalizado(a, b, n):
     fib = [a, b]
