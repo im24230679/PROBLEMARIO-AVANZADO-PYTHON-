@@ -1,4 +1,4 @@
-# 1.- Fibonacci inverso: Implementa una función que calcule los primeros N números de la serie de Fibonacci en orden inverso.
+#1.- Fibonacci inverso: Implementa una función que calcule los primeros N números de la serie de Fibonacci en orden inverso.
 
 def fibonacci_inverso(n):
     fib = [0, 1]
